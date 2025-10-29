@@ -1,0 +1,7 @@
+cosmo_dodge/
+│
+├── main.py
+├── assets/
+│   ├── station.png
+│   ├── meteor.png
+│   └── background.jpg
